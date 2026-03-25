@@ -41,11 +41,7 @@ Right-click index.html → Open with Live Server.
 
 The calculator will open in your browser at http://localhost:5500.
 
-🔹 Live Demo (GitHub Pages)
-👉 Once GitHub Pages is enabled, your calculator will be live here:
 
-Code
-https://Manasipokhare.github.io/basic-calculator/
 🔹 Submission Guidelines
 Code is structured into separate files (index.html, style.css, script.js).
 
